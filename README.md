@@ -1,41 +1,5 @@
 # JacobV09.github.io
 
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JacobV09 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-JacobV09
-/
-JacobV09.github.io
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-JacobV09.github.io/Projects/index.html
-@JacobV09
-JacobV09 Update index.html
-Latest commit 23121a5 2 hours ago
- History
- 1 contributor
-162 lines (145 sloc)  5.26 KB
-  
-
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
@@ -197,15 +161,3 @@ Latest commit 23121a5 2 hours ago
     </script>
   </body>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
