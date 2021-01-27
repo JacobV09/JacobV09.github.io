@@ -1,6 +1,5 @@
 # JacobV09.github.io
 
-<!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -128,8 +127,6 @@
     <div class="row column">
       <ul class="menu">
 
-        <li>
-          </a>
         </li>
         <li>
           <a href="https://github.com/JacobV09" class="" target="_blank">
