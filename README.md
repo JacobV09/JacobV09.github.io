@@ -1,4 +1,3 @@
-# JacobV09.github.io
 
 <html class="no-js" lang="en">
   <head>
