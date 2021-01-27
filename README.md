@@ -127,7 +127,6 @@
     <div class="row column">
       <ul class="menu">
 
-        </li>
         <li>
           <a href="https://github.com/JacobV09" class="" target="_blank">
             <img src="https://s3.amazonaws.com/agilephd/webicon-github-m.png">
